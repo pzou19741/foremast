@@ -50,7 +50,7 @@ We leverage ElasticSearch as datastore to store the request content and status. 
 
 You can locate the request status and detail via Kibana dashboard.
 
-### Models  <a id="models"></a>
+### Machine Models  <a id="models"></a>
 
 <table>
   <thead>
